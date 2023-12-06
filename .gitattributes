@@ -1,1 +1,2 @@
 raw_data/WTO_trade_data/bilateral_trade.csv filter=lfs diff=lfs merge=lfs -text
+raw_data/WTO_trade_data/bilateral.csv filter=lfs diff=lfs merge=lfs -text
